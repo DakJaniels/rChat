@@ -16,7 +16,7 @@
 ## SavedVariables: RCHAT_OPTS
 ## DependsOn: LibSFUtils>=77 LibAddonMenu-2.0>=43 LibMediaProvider>=37
 ## DependsOn: rChatData LibDebugLogger>=307
-## OptionalDependsOn: LibChatMessage LuiExtended LibSlashCommander
+## OptionalDependsOn: LibChatMessage LibSlashCommander
 
 lang/en.lua
 lang/$(language).lua
